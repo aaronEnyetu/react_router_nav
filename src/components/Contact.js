@@ -7,7 +7,7 @@ const Contact = () => {
           style={{marginTop: '80px'}}      
       > 
           <h3 className='ui header'>Contact</h3>
-          <p>Welcome to my Website</p>
+          <p>Please Contact Me here</p>
       
     </div>
   )

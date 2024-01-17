@@ -7,7 +7,7 @@ const About = () => {
           style={{marginTop: '80px'}}      
       > 
           <h3 className='ui header'>About</h3>
-          <p>Welcome to my Website</p>
+          <p>About Me Section</p>
       
     </div>
   )
